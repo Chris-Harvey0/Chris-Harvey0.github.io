@@ -1,4 +1,4 @@
-# Year 3 Projects
+# Year 4 Projects
 ## CSC8101 Engineering for AI
 ### Overview
 This project was split into two parts; an Azure Databricks component and a Neo4j component. Both of these parts involved a dataset of taxi trips which we needed to perform certain operations on in order to make some findings from the data.
