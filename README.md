@@ -8,5 +8,3 @@
 [Year 2 Projects Page](/Year2)
 
 ## [Contact](/contact)
-
-## [Setting Up GitHub Pages](/GitHubPages)
