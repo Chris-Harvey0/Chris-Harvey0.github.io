@@ -40,14 +40,20 @@ This project allowed me to gain a better understanding of how IoT devices work. 
 
 ## CSC8208 Research Methods and Group Project in Security and Resilience
 ### Overview
-Carbon intensity is a measure of the number of grams of CO2 that are released to produce one kWh of electricity. The aim of this project was to develop a machine learning model that could make predictions of carbon intensity for the next 24 hours. Accurately predicting carbon intensity allows for the scheduling of energy loads to times of low carbon intensity which reduces emissions.
+The brief for this project was to develop a secure ticketing system to be used for in-person events. In the planning and design stage I took on a leadership role to ensure that everyone was happy with the ideas that we chose to move forward with. For the rest of the duration of the project I developed the encryption/decryption pipeline with another team member and made use of pair programming to assist each other when needed.
 ### Reflection
-In reflection this project developed two machine learning models. The LSTM was capable of making 24 hour ahead carbon intensity forecasts whilst the ELM was not. However, exploring a new machine learning concept and implementing it for a new application was a challenging problem to solve. Developing a functioning ELM proved to be challenging due to the lack of online resources related to ELM implementation. This allowed me to improve my problem-solving skills and improve my ability to understand and implement complex topics.
+In reflection this project allowed me to gain experience in both managing a software team and working to strict deadlines.
+The research and planning phases both required careful management to be a success and to meet the relevant deadline.
+Detailed plans were made where possible and frequent team meetings were held to discuss ideas and fix issues.
+This helped keep the team on track and minimised the severity of issues when they arose.
+In the development phase I developed the encryption/decryption pipeline with another team member and used pair programming to improve productivity.
+This approach helped improve the productivity of our sub-team and allowed us to problem solve more effectively through collaboration.
+
 ### [CSC8208 Project Link](https://github.com/Chris-Harvey0/CSC8208-Research-Methods-and-Group-Project-in-Security-and-Resilience)
 
 ## CSC8498 Project and Dissertation for MComp
 ### Overview
-The brief for this project was to develop a secure ticketing system to be used for in-person events. In the planning and design stage I took on a leadership role to ensure that everyone was happy with the ideas that we chose to move forward with. For the rest of the duration of the project I developed the encryption/decryption pipeline with another team member and made use of pair programming to assist each other when needed.
+Carbon intensity is a measure of the number of grams of CO2 that are released to produce one kWh of electricity. The aim of this project was to develop a machine learning model that could make predictions of carbon intensity for the next 24 hours. Accurately predicting carbon intensity allows for the scheduling of energy loads to times of low carbon intensity which reduces emissions.
 ### Reflection
-
+In reflection this project developed two machine learning models. The LSTM was capable of making 24 hour ahead carbon intensity forecasts whilst the ELM was not. However, exploring a new machine learning concept and implementing it for a new application was a challenging problem to solve. Developing a functioning ELM proved to be challenging due to the lack of online resources related to ELM implementation. This allowed me to improve my problem-solving skills and improve my ability to understand and implement complex topics.
 ### [CSC8498 Project Link](https://github.com/Chris-Harvey0/CSC8498-Project-and-Dissertation-for-MComp)
