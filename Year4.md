@@ -37,3 +37,17 @@ Edge Device 1 --> EMQX --> Edge Device 2 --> RabbitMQ --> Cloud
 ### Reflection
 This project allowed me to gain a better understanding of how IoT devices work. Through the development of an IoT pipeline for this project I used two different popular message queueing methods. I managed to implement both of these well and didn't have any message losses in the finished program. For future work I would attempt to test this pipeline further to find out how robust it really is. This would allow me to assess whether it would be capable of coping with a real-world workload.
 ### [CSC8112 Project Link](https://github.com/Chris-Harvey0/CSC8112-Internet-of-Things)
+
+## CSC8208 Research Methods and Group Project in Security and Resilience
+### Overview
+Carbon intensity is a measure of the number of grams of CO2 that are released to produce one kWh of electricity. The aim of this project was to develop a machine learning model that could make predictions of carbon intensity for the next 24 hours. Accurately predicting carbon intensity allows for the scheduling of energy loads to times of low carbon intensity which reduces emissions.
+### Reflection
+In reflection this project developed two machine learning models. The LSTM was capable of making 24 hour ahead carbon intensity forecasts whilst the ELM was not. However, exploring a new machine learning concept and implementing it for a new application was a challenging problem to solve. Developing a functioning ELM proved to be challenging due to the lack of online resources related to ELM implementation. This allowed me to improve my problem-solving skills and improve my ability to understand and implement complex topics.
+### [CSC8208 Project Link](https://github.com/Chris-Harvey0/CSC8208-Research-Methods-and-Group-Project-in-Security-and-Resilience)
+
+## CSC8498 Project and Dissertation for MComp
+### Overview
+The brief for this project was to develop a secure ticketing system to be used for in-person events. In the planning and design stage I took on a leadership role to ensure that everyone was happy with the ideas that we chose to move forward with. For the rest of the duration of the project I developed the encryption/decryption pipeline with another team member and made use of pair programming to assist each other when needed.
+### Reflection
+
+### [CSC8498 Project Link](https://github.com/Chris-Harvey0/CSC8498-Project-and-Dissertation-for-MComp)
